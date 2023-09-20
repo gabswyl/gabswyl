@@ -30,10 +30,5 @@ Já tive experiências com design gráfico durante 4 anos (2 anos sendo freelanc
 <a href="https://twitter.com/waks02">Linkedln</a>
 
 
-<div>
-<img align="center" alt="hifumi new game" src="https://media.tenor.com/pSvCOVaP3qkAAAAC/new-game-hifumi.gif" />
-</div>
-
-
 
 
