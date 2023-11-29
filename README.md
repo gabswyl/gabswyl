@@ -7,7 +7,7 @@ Já tive experiências com design gráfico durante 4 anos (2 anos sendo freelanc
 - Me desafiando cada vez mais em projetos na prática e atualizando os projetos no github
 - Atualmente estou aprendendo <strong>Javascript, Python e UX design</strong>
 - Meu objetivo é se tornar um desenvolvedor front end & ux design, e conseguir estágio relacionado de front end;)
-- Pretendo expandir meu conhecimento em PHP, Typescript, Node.js e React assim que eu tiver conhecimento sólido em JavaScript
+- Pretendo expandir meu conhecimento em Typescript, Node.js e React assim que eu tiver conhecimento sólido em JavaScript
 
 <h3>⚙️ Habilidades em tecnologias:</h1>
 
