@@ -1,8 +1,9 @@
 ## console.log ("hello world!") 👋
 
 
-⭐ Muito prazer, sou desenvolvedor front end e ux/ui designer e atualmente estou cursando análise e desenvolvimento de sistemas. 
-Já tive experiências com design gráfico durante 4 anos (2 anos sendo freelancer) e decidi migrar pra front end e ux/ui há cerca de 8 meses.
+⭐ Muito prazer, sou desenvolvedor front end com foco na experiência do usuário e atualmente estou cursando análise e desenvolvimento de sistemas. 
+Já tive experiências com design gráfico durante 4 anos (2 anos sendo freelancer) e decidi migrar pra front end há cerca de 8 meses. Também possuo experiências 
+em Javascript e UX/UI Design. 
 
 - Me desafiando cada vez mais em projetos na prática e atualizando os projetos no github
 - Atualmente estou aprendendo <strong>Javascript, Python e UX design</strong>
