@@ -31,8 +31,7 @@ em Javascript e UX/UI Design.
 
 [<img align="center" alt="gabs-be" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />](https://www.behance.net/waks_)
 [<img align="center" alt="gabs-linkedln" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-vilarino-aa529b248/)
-[<img align="center" alt="gabs-tt" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/waks02)
-[<img align="center" alt="gabs-insta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/gabswyl/)
+
 </div>
 
 
