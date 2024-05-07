@@ -2,13 +2,12 @@
 
 
 ⭐ Muito prazer, sou desenvolvedor front end com foco na experiência do usuário e atualmente estou cursando análise e desenvolvimento de sistemas. 
-Já tive experiências com design gráfico durante 4 anos (2 anos sendo freelancer) e decidi migrar pra front end há cerca de 8 meses. Também possuo experiências 
-em Javascript e UX/UI Design. 
+Já tive experiências com design gráfico durante 4 anos (2 anos sendo freelancer) e decidi migrar pra front end há cerca de 1 ano. Também possuo experiências 
+em Javascript, React, NodeJS e diversos linguagens... e também possuo habilidades em experiência de usuário e design de interface.
 
 - Me desafiando cada vez mais em projetos na prática e atualizando os projetos no github
 - Atualmente estou aprendendo <strong>React, NodeJS e UX design</strong>
 - Meu objetivo é se tornar um desenvolvedor front end & ux design, e conseguir estágio relacionado de front end;)
-- Pretendo expandir meu conhecimento em Typescript e Node.js apos aprender React
 
 <h3>⚙️ Habilidades em tecnologias:</h1>
 
@@ -20,8 +19,14 @@ em Javascript e UX/UI Design.
 <img align="center" alt="gabs-js" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" alt="gabs-python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />        
 <img align="center" alt="gabs-react" height="47" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-
+<img align="center" alt="gabs-mongodb" height="47" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
+<img align="center" alt="gabs-typescript" height="47" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="center" alt="gabs-nodejs" height="47" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="center" alt="gabs-nextjs" height="47" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="center" alt="gabs-docker" height="47" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+<img align="center" alt="gabs-vuejs" height="47" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
+<img align="center" alt="gabs-taiwindcss" height="47" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="center" alt="gabs-postman" height="47" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 </div>
  
 #       
