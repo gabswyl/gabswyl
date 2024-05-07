@@ -6,8 +6,8 @@ Já tive experiências com design gráfico durante 4 anos (2 anos sendo freelanc
 em Javascript, React, NodeJS e diversos linguagens... e também possuo habilidades em experiência de usuário e design de interface.
 
 - Me desafiando cada vez mais em projetos na prática e atualizando os projetos no github
-- Atualmente estou aprendendo <strong>React, NodeJS e UX design</strong>
-- Meu objetivo é se tornar um desenvolvedor front end & ux design, e conseguir estágio relacionado de front end;)
+- Atualmente estou aprendendo <strong>Banco de dados, Arquitetura de Software e se especializando em NodeJS</strong>
+- Meu objetivo é se tornar um desenvolvedor front-end, e conseguir estágio relacionado de front end;)
 
 <h3>⚙️ Habilidades em tecnologias:</h1>
 
