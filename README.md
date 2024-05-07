@@ -3,7 +3,7 @@
 
 ⭐ Muito prazer, sou desenvolvedor front end com foco na experiência do usuário e atualmente estou cursando análise e desenvolvimento de sistemas. 
 Já tive experiências com design gráfico durante 4 anos (2 anos sendo freelancer) e decidi migrar pra front end há cerca de 1 ano. Também possuo experiências 
-em Javascript, React, NodeJS e diversos linguagens... e também possuo habilidades em experiência de usuário e design de interface.
+em Javascript, React, NodeJS e diversos linguagens... e por fim, possuo habilidades em experiência de usuário e design de interface.
 
 - Me desafiando cada vez mais em projetos na prática e atualizando os projetos no github
 - Atualmente estou aprendendo <strong>Banco de dados, Arquitetura de Software e se especializando em NodeJS</strong>
