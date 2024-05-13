@@ -27,6 +27,7 @@ em Javascript, React, NodeJS e diversos linguagens... e por fim, possuo habilida
 <img align="center" alt="gabs-vuejs" height="47" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
 <img align="center" alt="gabs-taiwindcss" height="47" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="center" alt="gabs-postman" height="47" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+<img align="center" alt="gabs-prisma" height="47" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
 </div>
  
 #       
