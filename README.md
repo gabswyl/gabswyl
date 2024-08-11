@@ -1,7 +1,10 @@
-just passion developer and designer makes softwares since 2023 
-languages programation i know: reactjs, javascript, node.js, python, typescript, mongodb, postman, figma, html & css 
+apenas um dev front-ender e designer que faz softwares desde 2023 ;) 
+</br>
+algumas habilidades em tecnologias: 
+</br>
+reactjs, javascript, node.js, python, typescript, mongodb, postman, figma, html & css 
 
 
-café com leite é maravilhoso!
+viva o café com leite amigos!
 </br>
 thanks you 
