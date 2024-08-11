@@ -1,6 +1,6 @@
 apenas um dev front-ender e designer que faz softwares desde 2023 ;) 
-</br>
-algumas habilidades em tecnologias: 
+</br></br>
+<b>algumas habilidades em tecnologias: </b>
 </br>
 reactjs, javascript, node.js, python, typescript, mongodb, postman, figma, html & css 
 
